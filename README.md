@@ -1,6 +1,6 @@
 ![Generic badge](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
-# Sticky State Android
+# Sticky State Android ([Ko](https://github.com/myungpyo/stickystate/blob/main/README-KO.md))
 A library that helps you save and restore UI states as using `@StickyState` annotation provided by `core` module.    
 You can apply the annotation to any of the properties which is supported from StickyState library in a class.    
 (You can find the supported types in the [Supported types](#supported-types) section)
